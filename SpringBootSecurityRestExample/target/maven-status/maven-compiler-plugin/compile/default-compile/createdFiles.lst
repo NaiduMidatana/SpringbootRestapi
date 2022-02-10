@@ -1,0 +1,10 @@
+com\mouritech\springbootsecurityrestexample\config\SecurityConfig.class
+com\mouritech\springbootsecurityrestexample\payload\LoginDto.class
+com\mouritech\springbootsecurityrestexample\repository\UserRepository.class
+com\mouritech\springbootsecurityrestexample\entity\Role.class
+com\mouritech\springbootsecurityrestexample\repository\RoleRepository.class
+com\mouritech\springbootsecurityrestexample\SpringBootSecurityRestExampleApplication.class
+com\mouritech\springbootsecurityrestexample\utils\PasswordEncoderGenerator.class
+com\mouritech\springbootsecurityrestexample\controller\AuthController.class
+com\mouritech\springbootsecurityrestexample\entity\User.class
+com\mouritech\springbootsecurityrestexample\service\CustomUserDetailsService.class
